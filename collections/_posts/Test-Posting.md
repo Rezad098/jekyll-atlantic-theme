@@ -4,8 +4,8 @@ date: 2018-12-20T09:49:03+10:00
 layout: post
 categories: ["Branding"]
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: "https://source.unsplash.com/YmQ0-nmWcV0/1600x900"
+thumbnail: "https://www.99.co/blog/indonesia/wp-content/uploads/2021/10/contoh-gambar-pemandangan-alam-yang-mudah-ditiru.jpg"
+image: "https://www.99.co/blog/indonesia/wp-content/uploads/2021/10/contoh-gambar-pemandangan-alam-yang-mudah-ditiru.jpg"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
@@ -44,7 +44,7 @@ From 2012, a group of people including Jeff Atwood and John MacFarlane launched 
 
 In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions.
 
-![unsplash](https://source.unsplash.com/3igFnx0L2pY/640x360)
+![unsplash](https://www.99.co/blog/indonesia/wp-content/uploads/2021/10/contoh-gambar-pemandangan-alam-yang-mudah-ditiru.jpg)
 
 ### Markdown Extra
 
